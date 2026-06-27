@@ -1,6 +1,9 @@
 # Shop-Inventory-system
 C++ program to buy and store ores
 
+## Coming soon
+Bank system v2.0 (v1 is done)
+
 ## Concept used
 Structs, Vectors, File Handling, Functions
 
