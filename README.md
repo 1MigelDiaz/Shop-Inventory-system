@@ -8,6 +8,6 @@ Structs, Vectors, File Handling, Functions
 Juan Miguel Diaz
 
 ## Screenshots
-inventory_view.png
-shop_view.png
-shopmain_menu.png
+![Inventory](inventory_view.png)
+![Shop](shop_view.png)
+![Main menu](shopmain_menu.png)
