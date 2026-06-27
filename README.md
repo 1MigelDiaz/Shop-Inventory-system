@@ -1,8 +1,7 @@
 # Shop-Inventory-system
 C++ program to buy and store ores
 
-## Coming soon
-Bank system v2.0 (v1 is done)
+## Bank system v2.0 Coming soon (v1.0 finished at June 27, 2026)
 
 ## Concept used
 Structs, Vectors, File Handling, Functions
